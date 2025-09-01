@@ -1,5 +1,5 @@
 # PF-Lab03-25K0585
-## About Me
+## ***About Me***
 I'm a curious and driven programmer with a love for solving puzzles and creating things that actually work. I enjoy experimenting with code, breaking things (on purpose), and learning from the chaos. Whether it's building sleek user interfaces or diving into the logic behind algorithms, I like to keep my brain busy.
 
 **Programming Interests**
@@ -13,3 +13,18 @@ I'm a curious and driven programmer with a love for solving puzzles and creating
 * *Automation:* If I can write a script to do it, I probably already have. (Even if it would’ve been faster to do it manually.)
 
 * *Languages:* JavaScript (the chaotic good), Python (the chill one), and Rust (the one I fight with but secretly admire).
+
+   ## This is my ordered list
+1. Quick Steps to Explore Programming
+
+2. Learn basic coding (Python or JavaScript).
+
+3. Choose an interest (web, games, AI, etc.).
+
+4. Build small projects.
+
+5. Try relevant tools or frameworks.
+
+6. Join coding communities.
+
+7. Keep practicing and learning.
